@@ -9,5 +9,6 @@ This repository contains a collection of C++ programs focused on mastering **Obj
 
 ## Questions:
 1. WAP to add two complex numbers using concept of classes and objects without operator overloading.
+2. Add two times taking input from the user and display in hr: min : sec format. Use classes and objects only.
 
 > 📌 This repo is under active development.
